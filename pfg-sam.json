@@ -3,5 +3,5 @@
    "cfn_stack":"API",
    "cfn_lint_version":"0.56.4",
    "sam_container":"public.ecr.aws/sam/build-python3.8:1.32.0",
-   "sam_bucket":"my-bucket"
+   "sam_bucket":"bucket3654684-jos"
 }
